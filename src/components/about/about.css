@@ -88,6 +88,7 @@
         margin: 0 auto 3rem;
     }
     .about__cards{
+    /* Đơn vị fr (hay phân số). Một đơn vị fr đơn mô tả một phần của nhiều phần mà chúng ta chia đều nó */
         grid-template-columns: 1fr 1fr;
         gap: 1rem;
     }
